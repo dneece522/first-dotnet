@@ -1,0 +1,15 @@
+/Users/drewneece/code/personal-projects/first-dot-net/bin/Debug/net7.0/first-dot-net
+/Users/drewneece/code/personal-projects/first-dot-net/bin/Debug/net7.0/first-dot-net.deps.json
+/Users/drewneece/code/personal-projects/first-dot-net/bin/Debug/net7.0/first-dot-net.runtimeconfig.json
+/Users/drewneece/code/personal-projects/first-dot-net/bin/Debug/net7.0/first-dot-net.dll
+/Users/drewneece/code/personal-projects/first-dot-net/bin/Debug/net7.0/first-dot-net.pdb
+/Users/drewneece/code/personal-projects/first-dot-net/obj/Debug/net7.0/first-dot-net.csproj.AssemblyReference.cache
+/Users/drewneece/code/personal-projects/first-dot-net/obj/Debug/net7.0/first-dot-net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drewneece/code/personal-projects/first-dot-net/obj/Debug/net7.0/first-dot-net.AssemblyInfoInputs.cache
+/Users/drewneece/code/personal-projects/first-dot-net/obj/Debug/net7.0/first-dot-net.AssemblyInfo.cs
+/Users/drewneece/code/personal-projects/first-dot-net/obj/Debug/net7.0/first-dot-net.csproj.CoreCompileInputs.cache
+/Users/drewneece/code/personal-projects/first-dot-net/obj/Debug/net7.0/first-dot-net.dll
+/Users/drewneece/code/personal-projects/first-dot-net/obj/Debug/net7.0/refint/first-dot-net.dll
+/Users/drewneece/code/personal-projects/first-dot-net/obj/Debug/net7.0/first-dot-net.pdb
+/Users/drewneece/code/personal-projects/first-dot-net/obj/Debug/net7.0/first-dot-net.genruntimeconfig.cache
+/Users/drewneece/code/personal-projects/first-dot-net/obj/Debug/net7.0/ref/first-dot-net.dll
