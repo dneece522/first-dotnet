@@ -9,3 +9,9 @@ int roll3 = dice.Next(50, 101);
 Console.WriteLine(roll1);
 Console.WriteLine(roll2);
 Console.WriteLine(roll3);
+
+int firstValue = 500;
+int secondValue = 600;
+int largerValue = Math.Max(firstValue, secondValue);
+
+Console.WriteLine(largerValue);
