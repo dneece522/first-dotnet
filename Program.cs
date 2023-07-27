@@ -31,3 +31,7 @@ if (daysUntilExpiration == 0)
 {
   Console.WriteLine($"Your subscription has expired.");
 }
+
+string firstName = "Bob";
+int widgetsSold = 7;
+Console.WriteLine($"{firstName} sold {widgetsSold} widgets.");
